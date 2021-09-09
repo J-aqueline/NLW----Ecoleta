@@ -11,7 +11,7 @@ app.get('/users', (request, response) => {
         'Robson',
         'Claudio',
         'Ana'
-    ] );
+    ] );//
 });
 
 app.listen(3333); 
